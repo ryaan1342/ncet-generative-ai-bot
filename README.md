@@ -1,2 +1,2 @@
 # ncet-generative-ai-bot
-good going no problem please guide me 
+This project is all about the generative AI
